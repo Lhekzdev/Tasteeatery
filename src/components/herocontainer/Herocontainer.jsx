@@ -31,7 +31,7 @@ const Herocontainer = () => {
 
   return (
     <div
-      className='herocontainer bg-cover relative w-full h-[763px]  md:h-[574px] bg-center lg:h-[605px] text-white items-center'
+      className='herocontainer bg-cover  lg:mt-12 relative w-full h-[763px]  md:h-[574px] bg-center lg:h-[605px] text-white items-center'
       style={{
         backgroundImage: `url(${backgroundImage})`  // Use backgroundImage state here
       }}
