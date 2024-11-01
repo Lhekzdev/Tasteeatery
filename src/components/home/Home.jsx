@@ -1,5 +1,7 @@
 import React from 'react'
 import Herocontainer from '../herocontainer/Herocontainer'
+import AboutUs from '../aboutUs/AboutUs'
+import Menu from '../menu/Menu'
 
 
 const Home = () => {
@@ -8,11 +10,8 @@ const Home = () => {
 
     <>
        <Herocontainer /> 
-   
-
-
-
-
+       <AboutUs/>
+       <Menu/>
     </>
 
 

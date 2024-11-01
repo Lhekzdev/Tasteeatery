@@ -11,8 +11,11 @@ export default {
         customPink: "rgba(255, 232, 204, 1)",
         customLightpink: "rgba(255, 232, 204, 1)",
         customBrown: "rgba(51, 28, 0, 1)",
-        customShadow: "rgba(94, 94, 94, 0.1)"
-       
+        customShadow: "rgba(94, 94, 94, 0.1)",
+          primary:'#FF8C00',
+          secondary:'#FFE8CC',
+          tertiary:'#331C00'
+        
 
 
       },
